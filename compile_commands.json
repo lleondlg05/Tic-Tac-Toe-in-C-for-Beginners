@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Users\\luisl\\Workspaces\\Tic-Tac-Toe\\Tic-Tac-Toe\\main.cpp",
+  "directory": "C:\\Users\\luisl\\Workspaces\\Tic-Tac-Toe\\Tic-Tac-Toe",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\luisl\\Workspaces\\Tic-Tac-Toe\\Tic-Tac-Toe\\main.cpp -o C:\\Users\\luisl\\Workspaces\\Tic-Tac-Toe\\Tic-Tac-Toe\\main.cpp.o -target x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0 -Ic:\\mingw64\\include\\c++\\12.2.0\\x86_64-w64-mingw32 -Ic:\\mingw64\\include\\c++\\12.2.0\\backward -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include -Ic:\\mingw64\\include -Ic:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\12.2.0\\include-fixed -Ic:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
